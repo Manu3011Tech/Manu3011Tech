@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</p>
 
-<!--
-**Manu3011Tech/Manu3011Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Manpreet Kaur 👩‍💻</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌱 Beginner in Python | 📊 Learning Data Tools | 🔐 Exploring Cybersecurity | 🤖 Manu is my AI Buddy
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/manpreet-kaur-519822283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Manpreet%20Kaur-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/badge/GitHub-Manpreet-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ About Me
+
+```bash
+🎓 Student at Punjabi University ,Patiala (CSE)
+📚 Learning: Python, NumPy, Pandas, Matplotlib
+🔐 Interested in: Cybersecurity (Beginner)
+💡 Dream: Build my own smart AI assistant named "Manu"
+👩‍💻 Goal: Learn, build projects, and grow step-by-step
+
