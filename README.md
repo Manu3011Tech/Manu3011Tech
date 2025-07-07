@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Manpreet Kaur 👩‍💻</h1>
 
 <p align="center">
-  🌱 Beginner in Python | 📊 Learning Data Tools | 🔐 Exploring Cybersecurity | 🤖 Manu is my AI Buddy
+  🌱 Beginner in Python | 📊 Learning Data Tools | 🔐 Exploring Cybersecurity | 🤖 Manu is my AI & ML buddy
 </p>
 
 <p align="center">
